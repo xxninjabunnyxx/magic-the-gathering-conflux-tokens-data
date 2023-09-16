@@ -1,0 +1,18 @@
+---
+object: set
+id: a7f9ec0e-e886-46d2-9857-4546c8e6fd32
+code: tcon
+name: Conflux Tokens
+uri: https://api.scryfall.com/sets/a7f9ec0e-e886-46d2-9857-4546c8e6fd32
+scryfall_uri: https://scryfall.com/sets/tcon
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcon&unique=prints
+released_at: '2009-02-06'
+set_type: token
+card_count: 2
+parent_set_code: con
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ala
+block: Alara
+icon_svg_uri: https://svgs.scryfall.io/sets/con.svg?1694404800
